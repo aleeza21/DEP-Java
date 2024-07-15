@@ -1,9 +1,9 @@
 To Run the Code:
 
 1) open teh project on VSCode or Ecllipse
-2) run the Chatserver.java class first to start the server 
+2) run the ChatServer.java class first to start the server 
 3) run the ChatClient.java to add a client to the Chat Room and exchange messages.
 
 Note: 
 to add a new client just run another instance of ChatClient class on the same port and each user can reply to the messages.
-to start the conversation from start or make another chatroom just change the port in both the Chatserver.java and ChatClient.java classes.
+to start the conversation from start or make another chatroom just change the port in both the ChatServer.java and ChatClient.java classes.
